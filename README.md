@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh Jain
-- 👀 I’m interested in React and .Net
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Angular JS and Java
+- 🌱 I’m currently learning Angular JS
 
 
 <!---
